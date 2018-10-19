@@ -1,7 +1,7 @@
 package es.ulpgc.bowling;
 
 /**
- * Hello world!
+ * test
  *
  */
 public class App 
